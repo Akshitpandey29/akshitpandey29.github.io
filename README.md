@@ -25,7 +25,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="/images/architect.jpg" alt="Architecture" width="1500" height="800">
+  <img class="w3-image" src="architect.jpg" alt="Architecture" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>STANDING</b></span> <span class="w3-hide-small w3-text-light-grey">WHEELCHAIR</span></h1>
   </div>
@@ -59,28 +59,28 @@
       <!-- <p><button class="w3-button w3-light-grey w3-block">Contact</button></p> -->
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-        <img src="/images/akshit.jpg" alt="Akshit" style="width:100%">
+        <img src="/akshit.jpg" alt="Akshit" style="width:100%">
         <h3>Akshit Pandey</h3>
         <p class="w3-opacity">Team Member</p>
         <p>101908076</p>
         <!-- <p><button class="w3-button w3-light-grey w3-block">Contact</button></p> -->
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-        <img src="/images/tanmay.jpg" alt="Tanmay" style="width:100%">
+        <img src="tanmay.jpg" alt="Tanmay" style="width:100%">
         <h3>Tanmay</h3>
         <p class="w3-opacity">Team Member</p>
         <p>101908075</p>
         <!-- <p><button class="w3-button w3-light-grey w3-block">Contact</button></p> -->
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/images/uday.jpg" alt="Uday" style="width:100%">
+      <img src="uday.jpg" alt="Uday" style="width:100%">
       <h3>UdayVeer Singh</h3>
       <p class="w3-opacity">Team Member</p>
       <p>101908073</p>
       <!-- <p><button class="w3-button w3-light-grey w3-block">Contact</button></p> -->
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/images/rishav.jpg" alt="Rishav" style="width:100%">
+      <img src="rishav.jpg" alt="Rishav" style="width:100%">
       <h3>Rishav Jindal</h3>
       <p class="w3-opacity">Team Member</p>
       <p>101908075</p>
@@ -97,25 +97,25 @@
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">1. Need Identification</div>
-                <img src="/images/need_identification.jpg" alt="Need Identification" style="width:100%">
+                <img src="need_identification.jpg" alt="Need Identification" style="width:100%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">2. Patent Survey/Market Survey</div>
-                <img src="/images/market_survey.jpg" alt="House" style="width:100%">
+                <img src="market_survey.jpg" alt="House" style="width:100%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">3. CAD Modelling & FEA</div>
-                <img src="/images/fea.jpg" alt="FEA" style="width:100%">
+                <img src="fea.jpg" alt="FEA" style="width:100%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">4. Fabrication</div>
-                <img src="/images/fabrication.jpg" alt="Fabrication" style="width:100%">
+                <img src="fabrication.jpg" alt="Fabrication" style="width:100%">
             </div>
         </div>
     </div>
@@ -124,19 +124,19 @@
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">5. Installation</div>
-                <img src="/images/installation.jpg" alt="Installation" style="width:99%">
+                <img src="installation.jpg" alt="Installation" style="width:99%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">6. Quality Check & Protyping</div>
-                <img src="/images/quality.jpg" alt="Quality" style="width:99%">
+                <img src="quality.jpg" alt="Quality" style="width:99%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">7. Finishing & Inspection</div>
-                <img src="/images/architect1.jpg" alt="Final" style="width:99%">
+                <img src="architect1.jpg" alt="Final" style="width:99%">
             </div>
         </div>
     </div>
@@ -149,13 +149,13 @@
 
       <h4><p>1. WHY STANDING WHEELCHAIR?</p> </h4>
       <video width="100%" height="600" controls>
-        <source src="/images/wheelchair2.mp4" type="video/mp4">
+        <source src="wheelchair2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <br>
       <br>
       <video width="100%" height="600" controls>
-        <source src="/images/wheelchair1.mp4" type="video/mp4">
+        <source src="wheelchair1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <br>
@@ -163,7 +163,7 @@
     
       <H4><p>2. CAD MODEL SIMULATION </p></H4>
       <video width="100%" height="600px" controls>
-        <source src="/images/cad.mp4" type="video/mp4">
+        <source src="cad.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
