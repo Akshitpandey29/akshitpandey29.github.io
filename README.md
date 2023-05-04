@@ -52,7 +52,7 @@
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/images/arpit.jpg" alt="Arpit" style="width:100%">
+      <img src="arpit.jpg" alt="Arpit" style="width:100%">
       <h3>Arpit Sharma</h3>
       <p class="w3-opacity">Team Member</p>
       <p>101908072</p>
